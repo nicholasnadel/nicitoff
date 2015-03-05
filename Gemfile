@@ -6,6 +6,7 @@ gem 'pundit'
 #make it pretty
 gem 'bootstrap-sass', '~> 3.3.3'
 gem 'sass-rails', '~> 5.0.1'
+gem "rails-erd"
 
 gem 'faker'
 
